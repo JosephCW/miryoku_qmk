@@ -1,0 +1,11 @@
+{
+    "keyboard_name": "Corne (Handwired)",
+    "manufacturer": "josephcw",
+    "url": "",
+    "maintainer": "josephcw",
+    "usb": {
+      "vid": "0xBEEF",
+      "pid": "0x1337",
+      "device_version": "0.0.1"
+    }
+}
